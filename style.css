@@ -361,7 +361,7 @@ height: 16px;
 /*footer*/
 .footer-plan{
     height: 503px;
-    background-image: url(https://hexschool.github.io/webLayoutTraining1st/chatTalker_images/home_footer.svg);
+    background-image: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/chatTalker_images/home_footer.svg);
     background-size: contain;
     background-repeat:no-repeat;
     flex-direction: column;
