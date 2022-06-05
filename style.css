@@ -68,15 +68,21 @@ a{
     border-radius: 27px;
    }
 
-/*container*/
-.container{
-    max-width:100%;
+/*body-backgroung*/
+.body-backgroung{
+    max-width: 100%;
     background: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/chatTalker_images/bg_home.svg);
     background-repeat:no-repeat;
     background-position: right top;
-    padding:0px 140px ;
-    margin: 0 auto;
 }
+
+/*container*/
+.container{
+    max-width: 1120px;
+    margin: 0 auto;
+    padding-left: 16px;
+    padding-right: 16px;}
+
 
 /*navbar*/
 .navbar{
