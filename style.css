@@ -164,7 +164,7 @@ a{
 
 @media(max-width:576px){
     .header img{
-        width:304.32px;
+        
         height:305.5px;
     }
     .header h1{
@@ -182,7 +182,7 @@ a{
 /*platform*/
 .platform{
     text-align: center;
-    margin:364px 53px 0px 53px;
+    margin-top:364px;
 }
 .platform h2{
     font-size: 32px;
@@ -298,8 +298,7 @@ a{
 .role ul{
     flex-direction: column;
     align-items: center;
-    margin-left: 37px;
-    margin-right: 37px;
+
 }
 .role li{
     width: 100%;
@@ -344,7 +343,6 @@ a{
     font-size:18px;
     color: #221E1F;
     font-weight:bold;
-    margin-left:32px ;
 }
 .function-list p{
     font-size:16px;
@@ -553,6 +551,6 @@ height: 16px;
     margin-top: 60px;
 }
 .footer-plan h2{
-    padding: 293px 20PX 24PX 20PX;
+    padding-top: 293px;
 }
 }
